@@ -106,21 +106,21 @@ class Iconsax {
       IconData(0xf92f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData money_send =
       IconData(0xf930, fontFamily: _fontFamily, fontPackage: _kFontPkg);
-  static const IconData clocks =
+  static const IconData clock =
       IconData(0xf931, fontFamily: _fontFamily, fontPackage: _kFontPkg);
-  static const IconData cards =
+  static const IconData card =
       IconData(0xf932, fontFamily: _fontFamily, fontPackage: _kFontPkg);
-  static const IconData card_poss =
+  static const IconData card_pos =
       IconData(0xf933, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData folder_add =
       IconData(0xf934, fontFamily: _fontFamily, fontPackage: _kFontPkg);
-  static const IconData settings =
+  static const IconData setting =
       IconData(0xf935, fontFamily: _fontFamily, fontPackage: _kFontPkg);
-  static const IconData timers =
+  static const IconData timer =
       IconData(0xf936, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData search_normal_1 =
       IconData(0xf937, fontFamily: _fontFamily, fontPackage: _kFontPkg);
-  static const IconData homes =
+  static const IconData home =
       IconData(0xf938, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData chart_2 =
       IconData(0xf939, fontFamily: _fontFamily, fontPackage: _kFontPkg);
