@@ -8,6 +8,59 @@ class Iconsax {
   static const String _fontFamily = 'iconsax';
   static const String _kFontPkg = 'iconsax';
 
+
+
+
+  static const IconData nft_collection_13042 =
+      IconData(0xe93f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_hand_13049 =
+      IconData(0xe940, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_store_13048 =
+      IconData(0xe941, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_token_13059 =
+      IconData(0xe942, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_investment_13053 =
+      IconData(0xe943, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_token_13046 =
+      IconData(0xe944, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_wallet_13050 =
+      IconData(0xe945, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_blockchain_13054 =
+      IconData(0xe946, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_license_13043 =
+      IconData(0xe947, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_buy_sell_13038 =
+      IconData(0xe948, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nft_auction_13051_1 =
+      IconData(0xe949, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData category_2 =
+      IconData(0xe94a, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData arrowline_up_3 =
+      IconData(0xe94b, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData arrowline_down_1 =
+      IconData(0xe94c, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData arrowline_right_1 =
+      IconData(0xe94d, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData arrowline_left =
+      IconData(0xe94e, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData bookmark_2 =
+      IconData(0xe94f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData box_1 =
+      IconData(0xe950, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData profile_tick =
+      IconData(0xe951, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData bank =
+     IconData(0xe952, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData ipfs =
+      IconData(0xe953, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData dcube =
+      IconData(0xe954, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData trush_square =
+      IconData(0xe955, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData trash =
+      IconData(0xe956, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData delete_circle =
+      IconData(0xe957, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData icon =
       IconData(0xe900, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData call =
