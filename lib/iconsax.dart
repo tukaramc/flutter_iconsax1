@@ -11,6 +11,8 @@ class Iconsax {
 
 
 
+  static const IconData Indian_Rupee_symbol =
+      IconData(0xe958, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData nft_collection_13042 =
       IconData(0xe93f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData nft_hand_13049 =
