@@ -11,6 +11,12 @@ class Iconsax {
 
 
 
+  static const IconData trustmonk =
+      IconData(0xe95a, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData nftmonk =
+      IconData(0xe95b, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData documonk =
+      IconData(0xe95c, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData heart_filled =
       IconData(0xe959, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData Indian_Rupee_symbol =
