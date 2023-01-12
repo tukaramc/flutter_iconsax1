@@ -10,7 +10,10 @@ class Iconsax {
 
 
 
-
+  static const IconData wldlp_1 =
+      IconData(0xe95d, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData wldlp_2 =
+      IconData(0xe95e, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData trustmonk =
       IconData(0xe95a, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData nftmonk =
