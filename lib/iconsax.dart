@@ -10,6 +10,25 @@ class Iconsax {
 
 
 
+
+  static const IconData discount_shape =
+      IconData(0xe981, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData people =
+      IconData(0xe982, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData dollar_square =
+      IconData(0xe983, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData usd_coin_usdc =
+      IconData(0xe984, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData calendar_1 =
+      IconData(0xe980, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData trustwallet =
+      IconData(0xe95f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData metamask_logo =
+      IconData(0xe960, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData walletconnect =
+      IconData(0xe97e, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData uniqueswap =
+      IconData(0xe97f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData wldlp_1 =
       IconData(0xe95d, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData wldlp_2 =
