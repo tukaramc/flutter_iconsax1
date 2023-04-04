@@ -11,6 +11,50 @@ class Iconsax {
 
 
 
+  static const IconData chart_3 =
+      IconData(0xe962, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData flag =
+      IconData(0xe963, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData message_question =
+      IconData(0xe964, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData radar_1 =
+      IconData(0xe965, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData gas_station =
+      IconData(0xe966, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData delete =
+      IconData(0xe967, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData undo =
+      IconData(0xe968, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData circle =
+      IconData(0xe969, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData panorama_fisheye =
+      IconData(0xe96a, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData link =
+      IconData(0xe96b, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData chevron_down =
+      IconData(0xe96c, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData horizontal_rotate_clockwise =
+      IconData(0xe96d, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData format_quote_close =
+      IconData(0xe96e, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData code_json =
+      IconData(0xe96f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData format_list_numbered =
+      IconData(0xe970, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData format_strikethrough =
+      IconData(0xe971, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData format_underline =
+      IconData(0xe972, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData format_italic =
+      IconData(0xe973, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData format_bold =
+      IconData(0xe974, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData edit_2 =
+      IconData(0xe975, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData volume_mute =
+      IconData(0xe976, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData global =
+      IconData(0xe961, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData discount_shape =
       IconData(0xe981, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData people =
