@@ -10,7 +10,14 @@ class Iconsax {
 
 
 
-
+  static const IconData shopping_bag =
+      IconData(0xe977, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData shopping_cart =
+      IconData(0xe978, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData bag_2 =
+      IconData(0xe979, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData shop =
+      IconData(0xe97a, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData chart_3 =
       IconData(0xe962, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData flag =
