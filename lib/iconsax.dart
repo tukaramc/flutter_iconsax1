@@ -10,6 +10,20 @@ class Iconsax {
 
 
 
+  static const IconData crown_1 =
+      IconData(0xe97b, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData cup =
+      IconData(0xe97c, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData coin_1 =
+      IconData(0xe97d, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData coin =
+      IconData(0xe985, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData ticket_discount =
+      IconData(0xe986, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData receipt_discount =
+      IconData(0xe987, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData receipt_disscount =
+      IconData(0xe988, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData shopping_bag =
       IconData(0xe977, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData shopping_cart =
