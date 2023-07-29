@@ -10,6 +10,18 @@ class Iconsax {
 
 
 
+  static const IconData dao =
+      IconData(0xe989, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData buildings_2 =
+      IconData(0xe98a, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData triangle =
+      IconData(0xe98b, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData diamonds =
+      IconData(0xe98c, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData colorfilter =
+      IconData(0xe98d, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData d_cube_scan =
+      IconData(0xe98e, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData crown_1 =
       IconData(0xe97b, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData cup =
