@@ -10,6 +10,8 @@ class Iconsax {
 
 
 
+  static const IconData qrcode =
+      IconData(0xe98f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData dao =
       IconData(0xe989, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData buildings_2 =
