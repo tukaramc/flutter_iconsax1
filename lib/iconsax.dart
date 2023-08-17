@@ -10,6 +10,12 @@ class Iconsax {
 
 
 
+  static const IconData dislike =
+      IconData(0xe990, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData like_dislike =
+      IconData(0xe991, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData like_1 =
+      IconData(0xe992, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData qrcode =
       IconData(0xe98f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData dao =
