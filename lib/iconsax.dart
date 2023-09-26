@@ -10,6 +10,11 @@ class Iconsax {
 
 
 
+
+  static const IconData star_half =
+      IconData(0xe993, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData star_fill =
+      IconData(0xe994, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData dislike =
       IconData(0xe990, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData like_dislike =
