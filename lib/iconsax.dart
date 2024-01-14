@@ -11,6 +11,10 @@ class Iconsax {
 
 
 
+  static const IconData liquidity_baskket =
+      IconData(0xe996, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData lbaskket2 =
+      IconData(0xe995, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData star_half =
       IconData(0xe993, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData star_fill =
