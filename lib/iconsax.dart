@@ -11,6 +11,8 @@ class Iconsax {
 
 
 
+  static const IconData user =
+      IconData(0xe997, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData liquidity_baskket =
       IconData(0xe996, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData lbaskket2 =

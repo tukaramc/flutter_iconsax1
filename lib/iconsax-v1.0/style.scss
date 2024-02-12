@@ -1,0 +1,790 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?izlccf');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?izlccf#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?izlccf') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?izlccf') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?izlccf##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-user {
+  &:before {
+    content: $icon-user; 
+  }
+}
+.icon-liquidity-baskket {
+  &:before {
+    content: $icon-liquidity-baskket; 
+  }
+}
+.icon-lbaskket2 {
+  &:before {
+    content: $icon-lbaskket2; 
+  }
+}
+.icon-star-half {
+  &:before {
+    content: $icon-star-half; 
+  }
+}
+.icon-star-fill {
+  &:before {
+    content: $icon-star-fill; 
+  }
+}
+.icon-dislike {
+  &:before {
+    content: $icon-dislike; 
+  }
+}
+.icon-like-dislike {
+  &:before {
+    content: $icon-like-dislike; 
+  }
+}
+.icon-like-1 {
+  &:before {
+    content: $icon-like-1; 
+  }
+}
+.icon-qrcode {
+  &:before {
+    content: $icon-qrcode; 
+  }
+}
+.icon-dao {
+  &:before {
+    content: $icon-dao; 
+  }
+}
+.icon-buildings-2 {
+  &:before {
+    content: $icon-buildings-2; 
+  }
+}
+.icon-triangle {
+  &:before {
+    content: $icon-triangle; 
+  }
+}
+.icon-diamonds {
+  &:before {
+    content: $icon-diamonds; 
+  }
+}
+.icon-colorfilter {
+  &:before {
+    content: $icon-colorfilter; 
+  }
+}
+.icon-d-cube-scan {
+  &:before {
+    content: $icon-d-cube-scan; 
+  }
+}
+.icon-crown-1 {
+  &:before {
+    content: $icon-crown-1; 
+  }
+}
+.icon-cup {
+  &:before {
+    content: $icon-cup; 
+  }
+}
+.icon-coin-1 {
+  &:before {
+    content: $icon-coin-1; 
+  }
+}
+.icon-coin {
+  &:before {
+    content: $icon-coin; 
+  }
+}
+.icon-ticket-discount {
+  &:before {
+    content: $icon-ticket-discount; 
+  }
+}
+.icon-receipt-discount {
+  &:before {
+    content: $icon-receipt-discount; 
+  }
+}
+.icon-receipt-disscount {
+  &:before {
+    content: $icon-receipt-disscount; 
+  }
+}
+.icon-shopping-bag {
+  &:before {
+    content: $icon-shopping-bag; 
+  }
+}
+.icon-shopping-cart {
+  &:before {
+    content: $icon-shopping-cart; 
+  }
+}
+.icon-bag-2 {
+  &:before {
+    content: $icon-bag-2; 
+  }
+}
+.icon-shop {
+  &:before {
+    content: $icon-shop; 
+  }
+}
+.icon-chart-3 {
+  &:before {
+    content: $icon-chart-3; 
+  }
+}
+.icon-flag {
+  &:before {
+    content: $icon-flag; 
+  }
+}
+.icon-message-question {
+  &:before {
+    content: $icon-message-question; 
+  }
+}
+.icon-radar-1 {
+  &:before {
+    content: $icon-radar-1; 
+  }
+}
+.icon-gas-station {
+  &:before {
+    content: $icon-gas-station; 
+  }
+}
+.icon-delete {
+  &:before {
+    content: $icon-delete; 
+  }
+}
+.icon-undo {
+  &:before {
+    content: $icon-undo; 
+  }
+}
+.icon-circle {
+  &:before {
+    content: $icon-circle; 
+  }
+}
+.icon-panorama-fisheye {
+  &:before {
+    content: $icon-panorama-fisheye; 
+  }
+}
+.icon-link {
+  &:before {
+    content: $icon-link; 
+  }
+}
+.icon-chevron-down {
+  &:before {
+    content: $icon-chevron-down; 
+  }
+}
+.icon-horizontal-rotate-clockwise {
+  &:before {
+    content: $icon-horizontal-rotate-clockwise; 
+  }
+}
+.icon-format-quote-close {
+  &:before {
+    content: $icon-format-quote-close; 
+  }
+}
+.icon-code-json {
+  &:before {
+    content: $icon-code-json; 
+  }
+}
+.icon-format-list-numbered {
+  &:before {
+    content: $icon-format-list-numbered; 
+  }
+}
+.icon-format-strikethrough {
+  &:before {
+    content: $icon-format-strikethrough; 
+  }
+}
+.icon-format-underline {
+  &:before {
+    content: $icon-format-underline; 
+  }
+}
+.icon-format-italic {
+  &:before {
+    content: $icon-format-italic; 
+  }
+}
+.icon-format-bold {
+  &:before {
+    content: $icon-format-bold; 
+  }
+}
+.icon-edit-2 {
+  &:before {
+    content: $icon-edit-2; 
+  }
+}
+.icon-volume-mute {
+  &:before {
+    content: $icon-volume-mute; 
+  }
+}
+.icon-global {
+  &:before {
+    content: $icon-global; 
+  }
+}
+.icon-discount-shape {
+  &:before {
+    content: $icon-discount-shape; 
+  }
+}
+.icon-people {
+  &:before {
+    content: $icon-people; 
+  }
+}
+.icon-dollar-square {
+  &:before {
+    content: $icon-dollar-square; 
+  }
+}
+.icon-usd-coin-usdc {
+  &:before {
+    content: $icon-usd-coin-usdc; 
+  }
+}
+.icon-calendar-1 {
+  &:before {
+    content: $icon-calendar-1; 
+  }
+}
+.icon-trustwallet {
+  &:before {
+    content: $icon-trustwallet; 
+  }
+}
+.icon-metamask-logo {
+  &:before {
+    content: $icon-metamask-logo; 
+  }
+}
+.icon-wallet_connect {
+  &:before {
+    content: $icon-wallet_connect; 
+  }
+}
+.icon-uniqueswap {
+  &:before {
+    content: $icon-uniqueswap; 
+  }
+}
+.icon-wldlp-1 {
+  &:before {
+    content: $icon-wldlp-1; 
+  }
+}
+.icon-wldlp-2 {
+  &:before {
+    content: $icon-wldlp-2; 
+  }
+}
+.icon-trustmonk {
+  &:before {
+    content: $icon-trustmonk; 
+  }
+}
+.icon-nftmonk {
+  &:before {
+    content: $icon-nftmonk; 
+  }
+}
+.icon-documonk {
+  &:before {
+    content: $icon-documonk; 
+  }
+}
+.icon-heart-filled {
+  &:before {
+    content: $icon-heart-filled; 
+  }
+}
+.icon-Indian-Rupee-symbol {
+  &:before {
+    content: $icon-Indian-Rupee-symbol; 
+  }
+}
+.icon-nft-collection-13042 {
+  &:before {
+    content: $icon-nft-collection-13042; 
+  }
+}
+.icon-nft-hand-13049 {
+  &:before {
+    content: $icon-nft-hand-13049; 
+  }
+}
+.icon-nft-store-13048 {
+  &:before {
+    content: $icon-nft-store-13048; 
+  }
+}
+.icon-nft-token-13059 {
+  &:before {
+    content: $icon-nft-token-13059; 
+  }
+}
+.icon-nft-investment-13053 {
+  &:before {
+    content: $icon-nft-investment-13053; 
+  }
+}
+.icon-nft-token-13046 {
+  &:before {
+    content: $icon-nft-token-13046; 
+  }
+}
+.icon-nft-wallet-13050 {
+  &:before {
+    content: $icon-nft-wallet-13050; 
+  }
+}
+.icon-nft-blockchain-13054 {
+  &:before {
+    content: $icon-nft-blockchain-13054; 
+  }
+}
+.icon-nft-license-13043 {
+  &:before {
+    content: $icon-nft-license-13043; 
+  }
+}
+.icon-nft-buy-sell-13038 {
+  &:before {
+    content: $icon-nft-buy-sell-13038; 
+  }
+}
+.icon-nft-auction-13051-1 {
+  &:before {
+    content: $icon-nft-auction-13051-1; 
+  }
+}
+.icon-category-2 {
+  &:before {
+    content: $icon-category-2; 
+  }
+}
+.icon-arrowline-up-3 {
+  &:before {
+    content: $icon-arrowline-up-3; 
+  }
+}
+.icon-arrowline-down1 {
+  &:before {
+    content: $icon-arrowline-down1; 
+  }
+}
+.icon-arrowline-right-1 {
+  &:before {
+    content: $icon-arrowline-right-1; 
+  }
+}
+.icon-arrowline-left {
+  &:before {
+    content: $icon-arrowline-left; 
+  }
+}
+.icon-bookmark-2 {
+  &:before {
+    content: $icon-bookmark-2; 
+  }
+}
+.icon-box-1 {
+  &:before {
+    content: $icon-box-1; 
+  }
+}
+.icon-profile-tick {
+  &:before {
+    content: $icon-profile-tick; 
+  }
+}
+.icon-bank {
+  &:before {
+    content: $icon-bank; 
+  }
+}
+.icon-ipfs {
+  &:before {
+    content: $icon-ipfs; 
+  }
+}
+.icon-dcube {
+  &:before {
+    content: $icon-dcube; 
+  }
+}
+.icon-trush-square {
+  &:before {
+    content: $icon-trush-square; 
+  }
+}
+.icon-trash {
+  &:before {
+    content: $icon-trash; 
+  }
+}
+.icon-delete-circle {
+  &:before {
+    content: $icon-delete-circle; 
+  }
+}
+.icon-empty-wallet {
+  &:before {
+    content: $icon-empty-wallet; 
+  }
+}
+.icon-call {
+  &:before {
+    content: $icon-call; 
+  }
+}
+.icon-cloud-off-outline {
+  &:before {
+    content: $icon-cloud-off-outline; 
+  }
+}
+.icon-dots-horizontal {
+  &:before {
+    content: $icon-dots-horizontal; 
+  }
+}
+.icon-dots-vertical {
+  &:before {
+    content: $icon-dots-vertical; 
+  }
+}
+.icon-format-list-bulleted {
+  &:before {
+    content: $icon-format-list-bulleted; 
+  }
+}
+.icon-google-chrome {
+  &:before {
+    content: $icon-google-chrome; 
+  }
+}
+.icon-whatsapp {
+  &:before {
+    content: $icon-whatsapp; 
+  }
+}
+.icon-instagram {
+  &:before {
+    content: $icon-instagram; 
+  }
+}
+.icon-linkedin {
+  &:before {
+    content: $icon-linkedin; 
+  }
+}
+.icon-twitter {
+  &:before {
+    content: $icon-twitter; 
+  }
+}
+.icon-facebook {
+  &:before {
+    content: $icon-facebook; 
+  }
+}
+.icon-star-1 {
+  &:before {
+    content: $icon-star-1; 
+  }
+}
+.icon-star {
+  &:before {
+    content: $icon-star; 
+  }
+}
+.icon-tools {
+  &:before {
+    content: $icon-tools; 
+  }
+}
+.icon-scanner {
+  &:before {
+    content: $icon-scanner; 
+  }
+}
+.icon-scan {
+  &:before {
+    content: $icon-scan; 
+  }
+}
+.icon-check {
+  &:before {
+    content: $icon-check; 
+  }
+}
+.icon-warning-2 {
+  &:before {
+    content: $icon-warning-2; 
+  }
+}
+.icon-unlock {
+  &:before {
+    content: $icon-unlock; 
+  }
+}
+.icon-heart {
+  &:before {
+    content: $icon-heart; 
+  }
+}
+.icon-document-1 {
+  &:before {
+    content: $icon-document-1; 
+  }
+}
+.icon-document-upload {
+  &:before {
+    content: $icon-document-upload; 
+  }
+}
+.icon-copy-success {
+  &:before {
+    content: $icon-copy-success; 
+  }
+}
+.icon-copy {
+  &:before {
+    content: $icon-copy; 
+  }
+}
+.icon-security-safe {
+  &:before {
+    content: $icon-security-safe; 
+  }
+}
+.icon-profile-circle {
+  &:before {
+    content: $icon-profile-circle; 
+  }
+}
+.icon-warning-21 {
+  &:before {
+    content: $icon-warning-21; 
+  }
+}
+.icon-arrow-down {
+  &:before {
+    content: $icon-arrow-down; 
+  }
+}
+.icon-arrow-up-1 {
+  &:before {
+    content: $icon-arrow-up-1; 
+  }
+}
+.icon-info-circle {
+  &:before {
+    content: $icon-info-circle; 
+  }
+}
+.icon-refresh {
+  &:before {
+    content: $icon-refresh; 
+  }
+}
+.icon-add {
+  &:before {
+    content: $icon-add; 
+  }
+}
+.icon-more {
+  &:before {
+    content: $icon-more; 
+  }
+}
+.icon-close-circle {
+  &:before {
+    content: $icon-close-circle; 
+  }
+}
+.icon-arrow-down-1 {
+  &:before {
+    content: $icon-arrow-down-1; 
+  }
+}
+.icon-arrow-left-2 {
+  &:before {
+    content: $icon-arrow-left-2; 
+  }
+}
+.icon-arrow-right-3 {
+  &:before {
+    content: $icon-arrow-right-3; 
+  }
+}
+.icon-arrow-up-2 {
+  &:before {
+    content: $icon-arrow-up-2; 
+  }
+}
+.icon-arrow-circle-down {
+  &:before {
+    content: $icon-arrow-circle-down; 
+  }
+}
+.icon-arrow-circle-left {
+  &:before {
+    content: $icon-arrow-circle-left; 
+  }
+}
+.icon-arrow-circle-right {
+  &:before {
+    content: $icon-arrow-circle-right; 
+  }
+}
+.icon-arrow-circle-up {
+  &:before {
+    content: $icon-arrow-circle-up; 
+  }
+}
+.icon-directbox-send {
+  &:before {
+    content: $icon-directbox-send; 
+  }
+}
+.icon-ethereum-classic-etc {
+  &:before {
+    content: $icon-ethereum-classic-etc; 
+  }
+}
+.icon-polygon-matic {
+  &:before {
+    content: $icon-polygon-matic; 
+  }
+}
+.icon-tick-circle {
+  &:before {
+    content: $icon-tick-circle; 
+  }
+}
+.icon-money-send {
+  &:before {
+    content: $icon-money-send; 
+  }
+}
+.icon-clock {
+  &:before {
+    content: $icon-clock; 
+  }
+}
+.icon-card {
+  &:before {
+    content: $icon-card; 
+  }
+}
+.icon-card-pos {
+  &:before {
+    content: $icon-card-pos; 
+  }
+}
+.icon-folder-add {
+  &:before {
+    content: $icon-folder-add; 
+  }
+}
+.icon-setting {
+  &:before {
+    content: $icon-setting; 
+  }
+}
+.icon-timer {
+  &:before {
+    content: $icon-timer; 
+  }
+}
+.icon-search-normal-1 {
+  &:before {
+    content: $icon-search-normal-1; 
+  }
+}
+.icon-home {
+  &:before {
+    content: $icon-home; 
+  }
+}
+.icon-chart-2 {
+  &:before {
+    content: $icon-chart-2; 
+  }
+}
+.icon-chart-21 {
+  &:before {
+    content: $icon-chart-21; 
+  }
+}
+.icon-element-2 {
+  &:before {
+    content: $icon-element-2; 
+  }
+}
+.icon-notification {
+  &:before {
+    content: $icon-notification; 
+  }
+}
+.icon-menu-1 {
+  &:before {
+    content: $icon-menu-1; 
+  }
+}
+.icon-empty-wallet1 {
+  &:before {
+    content: $icon-empty-wallet1; 
+  }
+}
+.icon-icon {
+  &:before {
+    content: $icon-icon; 
+  }
+}
+

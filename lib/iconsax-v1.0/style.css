@@ -1,0 +1,483 @@
+@font-face {
+  font-family: 'iconsax';
+  src:  url('fonts/iconsax.eot?izlccf');
+  src:  url('fonts/iconsax.eot?izlccf#iefix') format('embedded-opentype'),
+    url('fonts/iconsax.ttf?izlccf') format('truetype'),
+    url('fonts/iconsax.woff?izlccf') format('woff'),
+    url('fonts/iconsax.svg?izlccf#iconsax') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'iconsax' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-user:before {
+  content: "\e997";
+}
+.icon-liquidity-baskket:before {
+  content: "\e996";
+}
+.icon-lbaskket2:before {
+  content: "\e995";
+}
+.icon-star-half:before {
+  content: "\e993";
+}
+.icon-star-fill:before {
+  content: "\e994";
+}
+.icon-dislike:before {
+  content: "\e990";
+}
+.icon-like-dislike:before {
+  content: "\e991";
+}
+.icon-like-1:before {
+  content: "\e992";
+}
+.icon-qrcode:before {
+  content: "\e98f";
+}
+.icon-dao:before {
+  content: "\e989";
+}
+.icon-buildings-2:before {
+  content: "\e98a";
+}
+.icon-triangle:before {
+  content: "\e98b";
+}
+.icon-diamonds:before {
+  content: "\e98c";
+}
+.icon-colorfilter:before {
+  content: "\e98d";
+}
+.icon-d-cube-scan:before {
+  content: "\e98e";
+}
+.icon-crown-1:before {
+  content: "\e97b";
+}
+.icon-cup:before {
+  content: "\e97c";
+}
+.icon-coin-1:before {
+  content: "\e97d";
+}
+.icon-coin:before {
+  content: "\e985";
+}
+.icon-ticket-discount:before {
+  content: "\e986";
+}
+.icon-receipt-discount:before {
+  content: "\e987";
+}
+.icon-receipt-disscount:before {
+  content: "\e988";
+}
+.icon-shopping-bag:before {
+  content: "\e977";
+}
+.icon-shopping-cart:before {
+  content: "\e978";
+}
+.icon-bag-2:before {
+  content: "\e979";
+}
+.icon-shop:before {
+  content: "\e97a";
+}
+.icon-chart-3:before {
+  content: "\e962";
+}
+.icon-flag:before {
+  content: "\e963";
+}
+.icon-message-question:before {
+  content: "\e964";
+}
+.icon-radar-1:before {
+  content: "\e965";
+}
+.icon-gas-station:before {
+  content: "\e966";
+}
+.icon-delete:before {
+  content: "\e967";
+}
+.icon-undo:before {
+  content: "\e968";
+}
+.icon-circle:before {
+  content: "\e969";
+}
+.icon-panorama-fisheye:before {
+  content: "\e96a";
+}
+.icon-link:before {
+  content: "\e96b";
+}
+.icon-chevron-down:before {
+  content: "\e96c";
+}
+.icon-horizontal-rotate-clockwise:before {
+  content: "\e96d";
+}
+.icon-format-quote-close:before {
+  content: "\e96e";
+}
+.icon-code-json:before {
+  content: "\e96f";
+}
+.icon-format-list-numbered:before {
+  content: "\e970";
+}
+.icon-format-strikethrough:before {
+  content: "\e971";
+}
+.icon-format-underline:before {
+  content: "\e972";
+}
+.icon-format-italic:before {
+  content: "\e973";
+}
+.icon-format-bold:before {
+  content: "\e974";
+}
+.icon-edit-2:before {
+  content: "\e975";
+}
+.icon-volume-mute:before {
+  content: "\e976";
+}
+.icon-global:before {
+  content: "\e961";
+}
+.icon-discount-shape:before {
+  content: "\e981";
+}
+.icon-people:before {
+  content: "\e982";
+}
+.icon-dollar-square:before {
+  content: "\e983";
+}
+.icon-usd-coin-usdc:before {
+  content: "\e984";
+}
+.icon-calendar-1:before {
+  content: "\e980";
+}
+.icon-trustwallet:before {
+  content: "\e95f";
+}
+.icon-metamask-logo:before {
+  content: "\e960";
+}
+.icon-wallet_connect:before {
+  content: "\e97e";
+}
+.icon-uniqueswap:before {
+  content: "\e97f";
+}
+.icon-wldlp-1:before {
+  content: "\e95d";
+}
+.icon-wldlp-2:before {
+  content: "\e95e";
+}
+.icon-trustmonk:before {
+  content: "\e95a";
+}
+.icon-nftmonk:before {
+  content: "\e95b";
+}
+.icon-documonk:before {
+  content: "\e95c";
+}
+.icon-heart-filled:before {
+  content: "\e959";
+}
+.icon-Indian-Rupee-symbol:before {
+  content: "\e958";
+}
+.icon-nft-collection-13042:before {
+  content: "\e93f";
+}
+.icon-nft-hand-13049:before {
+  content: "\e940";
+}
+.icon-nft-store-13048:before {
+  content: "\e941";
+}
+.icon-nft-token-13059:before {
+  content: "\e942";
+}
+.icon-nft-investment-13053:before {
+  content: "\e943";
+}
+.icon-nft-token-13046:before {
+  content: "\e944";
+}
+.icon-nft-wallet-13050:before {
+  content: "\e945";
+}
+.icon-nft-blockchain-13054:before {
+  content: "\e946";
+}
+.icon-nft-license-13043:before {
+  content: "\e947";
+}
+.icon-nft-buy-sell-13038:before {
+  content: "\e948";
+}
+.icon-nft-auction-13051-1:before {
+  content: "\e949";
+}
+.icon-category-2:before {
+  content: "\e94a";
+}
+.icon-arrowline-up-3:before {
+  content: "\e94b";
+}
+.icon-arrowline-down1:before {
+  content: "\e94c";
+}
+.icon-arrowline-right-1:before {
+  content: "\e94d";
+}
+.icon-arrowline-left:before {
+  content: "\e94e";
+}
+.icon-bookmark-2:before {
+  content: "\e94f";
+}
+.icon-box-1:before {
+  content: "\e950";
+}
+.icon-profile-tick:before {
+  content: "\e951";
+}
+.icon-bank:before {
+  content: "\e952";
+}
+.icon-ipfs:before {
+  content: "\e953";
+}
+.icon-dcube:before {
+  content: "\e954";
+}
+.icon-trush-square:before {
+  content: "\e955";
+}
+.icon-trash:before {
+  content: "\e956";
+}
+.icon-delete-circle:before {
+  content: "\e957";
+}
+.icon-empty-wallet:before {
+  content: "\e902";
+}
+.icon-call:before {
+  content: "\e901";
+}
+.icon-cloud-off-outline:before {
+  content: "\e903";
+}
+.icon-dots-horizontal:before {
+  content: "\e904";
+}
+.icon-dots-vertical:before {
+  content: "\e905";
+}
+.icon-format-list-bulleted:before {
+  content: "\e906";
+}
+.icon-google-chrome:before {
+  content: "\e907";
+}
+.icon-whatsapp:before {
+  content: "\e908";
+}
+.icon-instagram:before {
+  content: "\e909";
+}
+.icon-linkedin:before {
+  content: "\e90a";
+}
+.icon-twitter:before {
+  content: "\e90b";
+}
+.icon-facebook:before {
+  content: "\e90c";
+}
+.icon-star-1:before {
+  content: "\e90d";
+}
+.icon-star:before {
+  content: "\e90e";
+}
+.icon-tools:before {
+  content: "\e90f";
+}
+.icon-scanner:before {
+  content: "\e910";
+}
+.icon-scan:before {
+  content: "\e911";
+}
+.icon-check:before {
+  content: "\e912";
+}
+.icon-warning-2:before {
+  content: "\e913";
+}
+.icon-unlock:before {
+  content: "\e914";
+}
+.icon-heart:before {
+  content: "\e915";
+}
+.icon-document-1:before {
+  content: "\e916";
+}
+.icon-document-upload:before {
+  content: "\e917";
+}
+.icon-copy-success:before {
+  content: "\e918";
+}
+.icon-copy:before {
+  content: "\e919";
+}
+.icon-security-safe:before {
+  content: "\e91a";
+}
+.icon-profile-circle:before {
+  content: "\e91b";
+}
+.icon-warning-21:before {
+  content: "\e91c";
+}
+.icon-arrow-down:before {
+  content: "\e91d";
+}
+.icon-arrow-up-1:before {
+  content: "\e91e";
+}
+.icon-info-circle:before {
+  content: "\e91f";
+}
+.icon-refresh:before {
+  content: "\e920";
+}
+.icon-add:before {
+  content: "\e921";
+}
+.icon-more:before {
+  content: "\e922";
+}
+.icon-close-circle:before {
+  content: "\e923";
+}
+.icon-arrow-down-1:before {
+  content: "\e924";
+}
+.icon-arrow-left-2:before {
+  content: "\e925";
+}
+.icon-arrow-right-3:before {
+  content: "\e926";
+}
+.icon-arrow-up-2:before {
+  content: "\e927";
+}
+.icon-arrow-circle-down:before {
+  content: "\e928";
+}
+.icon-arrow-circle-left:before {
+  content: "\e929";
+}
+.icon-arrow-circle-right:before {
+  content: "\e92a";
+}
+.icon-arrow-circle-up:before {
+  content: "\e92b";
+}
+.icon-directbox-send:before {
+  content: "\e92c";
+}
+.icon-ethereum-classic-etc:before {
+  content: "\e92d";
+}
+.icon-polygon-matic:before {
+  content: "\e92e";
+}
+.icon-tick-circle:before {
+  content: "\e92f";
+}
+.icon-money-send:before {
+  content: "\e930";
+}
+.icon-clock:before {
+  content: "\e931";
+}
+.icon-card:before {
+  content: "\e932";
+}
+.icon-card-pos:before {
+  content: "\e933";
+}
+.icon-folder-add:before {
+  content: "\e934";
+}
+.icon-setting:before {
+  content: "\e935";
+}
+.icon-timer:before {
+  content: "\e936";
+}
+.icon-search-normal-1:before {
+  content: "\e937";
+}
+.icon-home:before {
+  content: "\e938";
+}
+.icon-chart-2:before {
+  content: "\e939";
+}
+.icon-chart-21:before {
+  content: "\e93a";
+}
+.icon-element-2:before {
+  content: "\e93b";
+}
+.icon-notification:before {
+  content: "\e93c";
+}
+.icon-menu-1:before {
+  content: "\e93d";
+}
+.icon-empty-wallet1:before {
+  content: "\e93e";
+}
+.icon-icon:before {
+  content: "\e900";
+}
