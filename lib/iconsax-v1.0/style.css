@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iconsax';
-  src:  url('fonts/iconsax.eot?izlccf');
-  src:  url('fonts/iconsax.eot?izlccf#iefix') format('embedded-opentype'),
-    url('fonts/iconsax.ttf?izlccf') format('truetype'),
-    url('fonts/iconsax.woff?izlccf') format('woff'),
-    url('fonts/iconsax.svg?izlccf#iconsax') format('svg');
+  src:  url('fonts/iconsax.eot?2pu3px');
+  src:  url('fonts/iconsax.eot?2pu3px#iefix') format('embedded-opentype'),
+    url('fonts/iconsax.ttf?2pu3px') format('truetype'),
+    url('fonts/iconsax.woff?2pu3px') format('woff'),
+    url('fonts/iconsax.svg?2pu3px#iconsax') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-flash:before {
+  content: "\e999";
+}
+.icon-human-greeting-variant:before {
+  content: "\e998";
+}
 .icon-user:before {
   content: "\e997";
 }
