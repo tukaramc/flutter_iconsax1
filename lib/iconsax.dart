@@ -11,6 +11,16 @@ class Iconsax {
 
 
 
+  static const IconData crownlevel =
+      IconData(0xe99a, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData pearllevel =
+      IconData(0xe99b, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData starlevel =
+      IconData(0xe99c, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData diamondlevel =
+      IconData(0xe99d, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData rubylevel =
+      IconData(0xe99e, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData flash =
       IconData(0xe999, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData human_greeting_variant =

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iconsax';
-  src:  url('fonts/iconsax.eot?2pu3px');
-  src:  url('fonts/iconsax.eot?2pu3px#iefix') format('embedded-opentype'),
-    url('fonts/iconsax.ttf?2pu3px') format('truetype'),
-    url('fonts/iconsax.woff?2pu3px') format('woff'),
-    url('fonts/iconsax.svg?2pu3px#iconsax') format('svg');
+  src:  url('fonts/iconsax.eot?fmeg7i');
+  src:  url('fonts/iconsax.eot?fmeg7i#iefix') format('embedded-opentype'),
+    url('fonts/iconsax.ttf?fmeg7i') format('truetype'),
+    url('fonts/iconsax.woff?fmeg7i') format('woff'),
+    url('fonts/iconsax.svg?fmeg7i#iconsax') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-crownlevel:before {
+  content: "\e99a";
+}
+.icon-pearllevel:before {
+  content: "\e99b";
+}
+.icon-starlevel:before {
+  content: "\e99c";
+}
+.icon-diamondlevel:before {
+  content: "\e99d";
+}
+.icon-rubylevel:before {
+  content: "\e99e";
+}
 .icon-flash:before {
   content: "\e999";
 }
