@@ -10,7 +10,10 @@ class Iconsax {
 
 
 
-
+  static const IconData USDT =
+      IconData(0xe9a0, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData BitXTLogo =
+      IconData(0xe99f, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData crownlevel =
       IconData(0xe99a, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData pearllevel =
