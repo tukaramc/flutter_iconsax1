@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iconsax';
-  src:  url('fonts/iconsax.eot?fmeg7i');
-  src:  url('fonts/iconsax.eot?fmeg7i#iefix') format('embedded-opentype'),
-    url('fonts/iconsax.ttf?fmeg7i') format('truetype'),
-    url('fonts/iconsax.woff?fmeg7i') format('woff'),
-    url('fonts/iconsax.svg?fmeg7i#iconsax') format('svg');
+  src:  url('fonts/iconsax.eot?csxhm8');
+  src:  url('fonts/iconsax.eot?csxhm8#iefix') format('embedded-opentype'),
+    url('fonts/iconsax.ttf?csxhm8') format('truetype'),
+    url('fonts/iconsax.woff?csxhm8') format('woff'),
+    url('fonts/iconsax.svg?csxhm8#iconsax') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-Untitled-design-9:before {
+  content: "\e9a4";
+}
+.icon-binance:before {
+  content: "\e9a3";
+}
+.icon-ethereum2:before {
+  content: "\e9a1";
+}
+.icon-vorex:before {
+  content: "\e9a2";
+}
+.icon-USDT:before {
+  content: "\e9a0";
+}
+.icon-BitXTLogo:before {
+  content: "\e99f";
+}
 .icon-crownlevel:before {
   content: "\e99a";
 }

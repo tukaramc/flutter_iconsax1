@@ -10,6 +10,14 @@ class Iconsax {
 
 
 
+  static const IconData usdc =
+      IconData(0xe9a4, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData binance =
+      IconData(0xe9a3, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData ethereum2 =
+      IconData(0xe9a1, fontFamily: _fontFamily, fontPackage: _kFontPkg);
+  static const IconData vorex =
+      IconData(0xe9a2, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData USDT =
       IconData(0xe9a0, fontFamily: _fontFamily, fontPackage: _kFontPkg);
   static const IconData BitXTLogo =
